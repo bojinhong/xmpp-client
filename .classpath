@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/paul_hung/Downloads/smack_4_0_0/libs/smack-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paul_hung/Downloads/xpp3-1.1.4c_src/xpp3-1.1.4c/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paul_hung/Downloads/smack_4_0_0/libs/smack-tcp-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
